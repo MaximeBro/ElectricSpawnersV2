@@ -1,0 +1,10 @@
+name: ElectricSpawnersV2
+version: ${version}
+authors: [TheBusyBiscuit, Phil]
+description: Electric Spawners v2 Addon
+website: https://github.com/Slimefun5/
+
+main: net.universestudio.ElectricSpawnersV2
+depend: [Slimefun]
+
+api-version: '26.2'

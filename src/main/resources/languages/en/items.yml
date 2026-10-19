@@ -1,0 +1,574 @@
+ELECTRIC_SPAWNER_ALLAY:
+  name: '&eElectric Spawner &7(Allay)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_ARMADILLO:
+  name: '&eElectric Spawner &7(Armadillo)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_AXOLOTL:
+  name: '&eElectric Spawner &7(Axolotl)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_BAT:
+  name: '&eElectric Spawner &7(Bat)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_BEE:
+  name: '&eElectric Spawner &7(Bee)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_BLAZE:
+  name: '&eElectric Spawner &7(Blaze)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_BOGGED:
+  name: '&eElectric Spawner &7(Bogged)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_BREEZE:
+  name: '&eElectric Spawner &7(Breeze)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_CAMEL:
+  name: '&eElectric Spawner &7(Camel)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_CAMEL_HUSK:
+  name: '&eElectric Spawner &7(Camel Husk)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_CAT:
+  name: '&eElectric Spawner &7(Cat)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_CAVE_SPIDER:
+  name: '&eElectric Spawner &7(Cave Spider)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_CHICKEN:
+  name: '&eElectric Spawner &7(Chicken)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_COD:
+  name: '&eElectric Spawner &7(Cod)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_COW:
+  name: '&eElectric Spawner &7(Cow)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_CREAKING:
+  name: '&eElectric Spawner &7(Creaking)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_CREEPER:
+  name: '&eElectric Spawner &7(Creeper)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_DOLPHIN:
+  name: '&eElectric Spawner &7(Dolphin)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_DONKEY:
+  name: '&eElectric Spawner &7(Donkey)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_DROWNED:
+  name: '&eElectric Spawner &7(Drowned)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_ELDER_GUARDIAN:
+  name: '&eElectric Spawner &7(Elder Guardian)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_ENDERMAN:
+  name: '&eElectric Spawner &7(Enderman)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_ENDERMITE:
+  name: '&eElectric Spawner &7(Endermite)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_EVOKER:
+  name: '&eElectric Spawner &7(Evoker)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_FOX:
+  name: '&eElectric Spawner &7(Fox)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_FROG:
+  name: '&eElectric Spawner &7(Frog)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_GHAST:
+  name: '&eElectric Spawner &7(Ghast)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_GOAT:
+  name: '&eElectric Spawner &7(Goat)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_GUARDIAN:
+  name: '&eElectric Spawner &7(Guardian)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_HAPPY_GHAST:
+  name: '&eElectric Spawner &7(Happy Ghast)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_HOGLIN:
+  name: '&eElectric Spawner &7(Hoglin)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_HORSE:
+  name: '&eElectric Spawner &7(Horse)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_HUSK:
+  name: '&eElectric Spawner &7(Husk)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_ILLUSIONER:
+  name: '&eElectric Spawner &7(Illusioner)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_IRON_GOLEM:
+  name: '&eElectric Spawner &7(Iron Golem)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_LLAMA:
+  name: '&eElectric Spawner &7(Llama)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_MAGMA_CUBE:
+  name: '&eElectric Spawner &7(Magma Cube)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_MOOSHROOM:
+  name: '&eElectric Spawner &7(Mooshroom)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_MULE:
+  name: '&eElectric Spawner &7(Mule)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_NAUTILUS:
+  name: '&eElectric Spawner &7(Nautilus)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_OCELOT:
+  name: '&eElectric Spawner &7(Ocelot)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_PANDA:
+  name: '&eElectric Spawner &7(Panda)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_PARCHED:
+  name: '&eElectric Spawner &7(Parched)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_PARROT:
+  name: '&eElectric Spawner &7(Parrot)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_PHANTOM:
+  name: '&eElectric Spawner &7(Phantom)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_PIG:
+  name: '&eElectric Spawner &7(Pig)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_PIGLIN:
+  name: '&eElectric Spawner &7(Piglin)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_PIGLIN_BRUTE:
+  name: '&eElectric Spawner &7(Piglin Brute)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_PILLAGER:
+  name: '&eElectric Spawner &7(Pillager)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_POLAR_BEAR:
+  name: '&eElectric Spawner &7(Polar Bear)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_PUFFERFISH:
+  name: '&eElectric Spawner &7(Pufferfish)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_RABBIT:
+  name: '&eElectric Spawner &7(Rabbit)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_RAVAGER:
+  name: '&eElectric Spawner &7(Ravager)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_SALMON:
+  name: '&eElectric Spawner &7(Salmon)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_SHEEP:
+  name: '&eElectric Spawner &7(Sheep)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_SHULKER:
+  name: '&eElectric Spawner &7(Shulker)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_SILVERFISH:
+  name: '&eElectric Spawner &7(Silverfish)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_SKELETON:
+  name: '&eElectric Spawner &7(Skeleton)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_SKELETON_HORSE:
+  name: '&eElectric Spawner &7(Skeleton Horse)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_SLIME:
+  name: '&eElectric Spawner &7(Slime)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_SNIFFER:
+  name: '&eElectric Spawner &7(Sniffer)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_SNOW_GOLEM:
+  name: '&eElectric Spawner &7(Snow Golem)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_SPIDER:
+  name: '&eElectric Spawner &7(Spider)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_SQUID:
+  name: '&eElectric Spawner &7(Squid)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_STRAY:
+  name: '&eElectric Spawner &7(Stray)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_STRIDER:
+  name: '&eElectric Spawner &7(Strider)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_SULFUR_CUBE:
+  name: '&eElectric Spawner &7(Sulfur Cube)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_TADPOLE:
+  name: '&eElectric Spawner &7(Tadpole)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_TROPICAL_FISH:
+  name: '&eElectric Spawner &7(Tropical Fish)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_TURTLE:
+  name: '&eElectric Spawner &7(Turtle)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_VEX:
+  name: '&eElectric Spawner &7(Vex)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_VILLAGER:
+  name: '&eElectric Spawner &7(Villager)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_VINDICATOR:
+  name: '&eElectric Spawner &7(Vindicator)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_WITCH:
+  name: '&eElectric Spawner &7(Witch)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_WITHER:
+  name: '&eElectric Spawner &7(Wither)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_WITHER_SKELETON:
+  name: '&eElectric Spawner &7(Wither Skeleton)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_WOLF:
+  name: '&eElectric Spawner &7(Wolf)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_ZOGLIN:
+  name: '&eElectric Spawner &7(Zoglin)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_ZOMBIE:
+  name: '&eElectric Spawner &7(Zombie)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_ZOMBIE_HORSE:
+  name: '&eElectric Spawner &7(Zombie Horse)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_ZOMBIE_NAUTILUS:
+  name: '&eElectric Spawner &7(Zombie Nautilus)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
+ELECTRIC_SPAWNER_ZOMBIFIED_PIGLIN:
+  name: '&eElectric Spawner &7(Zombified Piglin)'
+  stats:
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  type:
+    - '&7&oMachine'
