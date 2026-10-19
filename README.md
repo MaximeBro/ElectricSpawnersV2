@@ -1,5 +1,5 @@
 # ElectricSpawnersV2
-ElectricSpawnersV2 is a [Slimefun5](https://github.com/TheBusyBiscuit/Slimefun4/) Addon, originally made by TheBusyBiscuit for Slimefun4 and updated by Phil for Slimefun5.<br>
+ElectricSpawnersV2 is a [Slimefun5](https://github.com/Slimefun5/Slimefun5/) Addon, originally made by TheBusyBiscuit for Slimefun4 and updated by Phil for Slimefun5.<br>
 You need to install Slimefun5 in order for this plugin to work.
 
 ElectricSpawnersV2 allows you turn Reinforced Spawners into Electric Spawners.
